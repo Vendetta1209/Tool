@@ -1,0 +1,1 @@
+java -jar evalSpecMaker.jar test.md test.xlsx
